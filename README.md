@@ -8,7 +8,7 @@ The bot is made to be similar to the Kitso bot
 
 # Note
 The bot is made to be similar to the Kitso bot
-![Kitso](https://im4.ezgif.com/tmp/ezgif-4-f4c4956efca4.png)
+![Kitso](https://im4.ezgif.com/tmp/ezgif-4-632208ab1ce7.png)
 
 
 # Commands 
