@@ -3,8 +3,7 @@ An Amazing Discord Bot
 
 
 # How to run the bot ?
-The bot is made to be similar to the Kitso bot
-
+Just run the main files in each folder
 
 # Note
 The bot is made to be similar to the Kitso bot
