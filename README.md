@@ -3,7 +3,7 @@ An Amazing Discord Bot
 
 
 # How to run the bot ?
-NTg4MDA5NTE1NDE3MzM3ODc5.XQfpmw.xS4x9uq2hHjbi9VzZYCZsBjYuVc
+The bot is made to be similar to the Kitso bot
 
 
 # Note
